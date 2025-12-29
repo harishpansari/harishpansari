@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Harish Pansari<br>🚀 Data Science professional and Software Developer.<br>I specialize in building AI-driven solutions, automated data pipelines, and scalable web platforms. <br>Currently, I am a Trainee Software Developer at Aarjavam Polsquare Pvt. Ltd.<br>
+👋 Hi, I'm Harish Pansari<br>🚀 Data Science professional and Software Developer. I specialize in building AI-driven solutions, automated data pipelines, and scalable web platforms. Currently, I am a Trainee Software Developer at Aarjavam Polsquare Pvt. Ltd.<br>
 
 
 ## 🌐 Socials:
